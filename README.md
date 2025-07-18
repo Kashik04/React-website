@@ -54,7 +54,7 @@ A clean, responsive web application to track and display daily class work report
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Kashik04/React-website
 cd your-repo-name
 
 # 2. Install dependencies
